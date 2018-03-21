@@ -5,7 +5,6 @@ require 'populator/record'
 require 'populator/random'
 
 require 'populator/adapters/abstract'
-require 'populator/adapters/sqlite'
 require 'populator/adapters/oracle'
 require 'populator/adapters/postgresql'
 
