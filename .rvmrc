@@ -2,7 +2,7 @@
 
 # adapted from: http://rvm.beginrescueend.com/workflow/rvmrc/
 
-ruby_string="2.1.2"
+ruby_string="2.3.3"
 gemset_name="populator"
 
 if rvm list strings | grep -q "${ruby_string}" ; then
